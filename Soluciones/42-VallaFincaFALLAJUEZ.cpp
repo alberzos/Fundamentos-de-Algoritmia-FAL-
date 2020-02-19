@@ -7,7 +7,7 @@
 #include <vector>
 
 // Coste O(n) siendo n la longitud de la valla
-// función que resuelve el problema
+// función que resuelve el problema
 int resolver(const std:: vector<int> &v, int longitud) {
     
 	int sol = -1;
@@ -37,7 +37,7 @@ int resolver(const std:: vector<int> &v, int longitud) {
 }
 
 // Resuelve un caso de prueba, leyendo de la entrada la
-// configuración, y escribiendo la respuesta
+// configuración, y escribiendo la respuesta
 bool resuelveCaso() {
     // leer los datos de la entrada
 	int n, m;
